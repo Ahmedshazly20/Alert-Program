@@ -5,7 +5,7 @@ This is a Alert program that displays different alerts such as warning, danger, 
 It is a practical application by engineer Mohamed Naji in the course
 
 ## 🛠 Skills
-Javascript, React, Sass...
+Typescript, React, Sass...
 
 
 ## Documentation
